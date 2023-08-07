@@ -8,9 +8,9 @@
 > 本道キャンパス（医学部）
 <br>
 
-# AR Time Walk
+# ARTimeWalk
 ---
-　AR Time Walkでは、[過去の風景写真](https://www.akita-u.ac.jp/honbu/70th/index.html){:target="_blank"}と写真撮影者のアバターが実空間に重なって表示されます。写真撮影者の視点で、撮影当時の空間を歩いてみませんか？ <span style="color: blue; ">当日は、9:00-15:00の間、理工学部５号館１階 106実習室で、AR Time Walkのデモを体験できます。</span>是非とも、気軽にお越しください。（このアプリはまだ一般公開をしておりません。体験会では、こちらで用意したiPadやiPhoneを使って、本アプリを体験していただけます）
+　ARTimeWalkでは、[過去の風景写真](https://www.akita-u.ac.jp/honbu/70th/index.html){:target="_blank"}と写真撮影者のアバターが実空間に重なって表示されます。写真撮影者の視点で、撮影当時の空間を歩いてみませんか？ <span style="color: blue; ">当日は、9:00-15:00の間、理工学部５号館１階 106実習室で、AR Time Walkのデモを体験できます。</span>是非とも、気軽にお越しください。（このアプリはまだ一般公開をしておりません。体験会では、こちらで用意したiPadやiPhoneを使って、本アプリを体験していただけます）
 
 # App Screens
 ---
