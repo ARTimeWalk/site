@@ -1,0 +1,11 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: AR Time Walk
+description: 過去の写真を使ったARによる時空歩きiOSアプリ
+show_downloads: false
+google_analytics: G-ZLWHN0ZHX8
+github:
+  repository_url: "https://github.com/ARTimeWalk/ar-time-walk_app"
+  repository_nwo: "ARTimeWalk/ar-time-walk_app"
