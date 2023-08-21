@@ -15,9 +15,9 @@
 # App Screens
 ---
 <p style= 'text-align: center;'>
-  <img src="https://si.akita-u.info/artwalk/image/image_photo.jpg" width= "30%" >
-  <img src="https://si.akita-u.info/artwalk/image/image_detect.jpg" width= "30%" >
-  <img src="https://si.akita-u.info/artwalk/image/image_human.jpg" width= "30%" >
+  <img src="images/app_image_photo.jpg" width= "30%" >
+  <img src="images/app_image_detect.jpg" width= "30%" >
+  <img src="images/app_image_human.jpg" width= "30%" >
 </p>
 
 # Video
@@ -42,5 +42,5 @@
 <br>
 
 <p style= 'text-align: right;'>
-  <a href="https://www.akita-u.ac.jp/honbu/" target="_blank"><img src="https://si.akita-u.info/artwalk/image/au_logo_220718_trim.jpg" width= "30%" ></a>
+  <a href="https://www.akita-u.ac.jp/honbu/" target="_blank"><img src="images/au_logo.jpg" width= "30%" ></a>
 </p>
