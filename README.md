@@ -11,5 +11,5 @@ GitHub Pagesがサポートしている基本的なテーマが確認できま�
 ARTimeWalkのサイトでは[minimal](https://github.com/pages-themes/minimal)を使用しました。  
 
 サイトの内容は.mdファイルに記述し、  
-サイトの機能的な部分の変更内容は_config.ymlに記述します。
+サイトの機能的な部分の変更内容は_config.ymlに記述します。  
 （タイトル、サブタイトル、ダウンロード機能、Google Analytics、GitHubへの参照リンク等）
