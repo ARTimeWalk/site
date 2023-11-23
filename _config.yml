@@ -4,6 +4,7 @@ plugins:
 
 title: ARTimeWalk
 description: 過去の写真を使ったARによる時空歩きiOSアプリ
-github.is_project_page: false
+github:
+  is_project_page: false
 show_downloads: false
 google_analytics: G-ZLWHN0ZHX8
