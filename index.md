@@ -1,5 +1,6 @@
 # 🚧 Under Construction! 🚧
-[秋田大学オープンキャンパス2023 アプリ紹介ページ](https://ARTimeWalk.github.io/site/open-campus_2023){:target="_blank"}
+
+<br>
 <br>
 <br>
 
@@ -13,6 +14,10 @@
 
 # Video
 ---
+<div class="wrap">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/akJzsw4c75U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 <br>
 
 # VIO (Visual-Inertial Odometry)
