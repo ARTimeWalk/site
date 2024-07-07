@@ -1,4 +1,4 @@
-[本サイト](https://artimewalk.github.io/site/)
+[本サイト](https://artimewalk.github.io/site/) <- 作成中
 
 GitHubの簡易的なWebサイト作成/公開機能である、  
 [GitHub Pages](https://docs.github.com/ja/pages/getting-started-with-github-pages/about-github-pages)で作ってみました。  
