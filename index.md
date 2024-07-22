@@ -28,9 +28,13 @@ We propose a new style smartphone application that presents past pho- tographs i
  
 <br>
 
+<a href="https://top.ie.akita-u.ac.jp/lab/" target="_blank">Terms of Service</a>
+<a href="https://top.ie.akita-u.ac.jp/lab/" target="_blank">Privacy Policy</a>
+
 <p style= 'text-align: right;'>
   Created by: <a href="https://top.ie.akita-u.ac.jp/lab/" target="_blank">Arikawa Laboratory</a>
 </p>
+
 <p style= 'text-align: right;'>
   Contact: ar-time-walk@si.akita-u.info
 </p>
