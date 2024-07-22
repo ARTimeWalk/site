@@ -1,6 +1,6 @@
 # What is ARTimeWalk
 ---
-We propose a new style smartphone application that presents past pho- tographs in AR (Augmented Reality) at the location in the real world where they were taken. The application consists of a process that provides precise location information of the photograph and a process that changes the present of the photograph depending on the user's movements. The new framework for easily registering photographs to the AR space using a smartphone realize a new innovative form of real world visual representation of photographs by adding physical actions. Additionally, the networked service will be introduced to the framework so that users could share rich experiences, for example, recording personal or historical stories and providing interesting content for tourist spots.
+We propose a new style smartphone application that presents past photographs in AR (Augmented Reality) at the location in the real world where they were taken. The application consists of a process that provides precise location information of the photograph and a process that changes the present of the photograph depending on the user's movements. The new framework for easily registering photographs to the AR space using a smartphone realize a new innovative form of real world visual representation of photographs by adding physical actions. Additionally, the networked service will be introduced to the framework so that users could share rich experiences, for example, recording personal or historical stories and providing interesting content for tourist spots.
 
 <br>
 
