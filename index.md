@@ -29,10 +29,10 @@ We propose a new style smartphone application that presents past photographs in 
 <br>
 
 <p>
-  <a href="https://artimewalk.github.io/site/privacy-policy" target="_blank">Terms of Service</a>
+  <a href="https://artimewalk.github.io/site/terms" target="_blank">Terms of Service</a>
 </p>
 <p>
-  <a href="https://artimewalk.github.io/site/terms" target="_blank">Privacy Policy</a>
+  <a href="https://artimewalk.github.io/site/privacy-policy" target="_blank">Privacy Policy</a>
 </p>
 
 <br>
