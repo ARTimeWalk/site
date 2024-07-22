@@ -35,6 +35,8 @@ We propose a new style smartphone application that presents past pho- tographs i
   <a href="https://artimewalk.github.io/site/terms" target="_blank">Privacy Policy</a>
 </p>
 
+<br>
+
 <p style= 'text-align: right;'>
   Created by: <a href="https://top.ie.akita-u.ac.jp/lab/" target="_blank">Arikawa Laboratory</a>
 </p>
