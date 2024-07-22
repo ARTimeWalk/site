@@ -10,9 +10,7 @@ This app is a beta version, so public functions such as photos are limited. Ther
 <br>
 
 ## Deletion Request
-Data (photos, signs or billboards) registered by users can be deleted from the app only by the registered users themselves.
-
-<br>
+Data (photos, signs or billboards) registered by users can be deleted from the app only by the registered users themselves.    
 
 If you have any requests to delete data registered by other users. Please contact us via the "Contact Us" in the app. When contacting us with a deletion request, please attach a copy of the UUID, etc. of the relevant data. We will consider the request and take action such as deleting the data.
 
