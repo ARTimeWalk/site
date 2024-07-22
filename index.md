@@ -24,7 +24,7 @@ We propose a new style smartphone application that presents past photographs in 
 
 # VIO (Visual-Inertial Odometry)
 ---
-　The smartphone's camera recognizes reference image markers (signs or billboards in the sity) that serve as 3D positional reference and measures the relative position and orientation of the marker and camera with an accuracy of several tens of centimeters. Even if the smartphone is moved after marker recognition, the position and orientation of the smartphone are maintained in high quality by sensor fusion (VIO) that integrates planar tracking by the camera and spatial positioning by a motion sensor that measures acceleration. AR Time Walk is an application that uses this state-of-the-art technology.
+The smartphone's camera recognizes reference image markers (signs or billboards in the sity) that serve as 3D positional reference and measures the relative position and orientation of the marker and camera with an accuracy of several tens of centimeters. Even if the smartphone is moved after marker recognition, the position and orientation of the smartphone are maintained in high quality by sensor fusion (VIO) that integrates planar tracking by the camera and spatial positioning by a motion sensor that measures acceleration. AR Time Walk is an application that uses this state-of-the-art technology.
  
 <br>
 
