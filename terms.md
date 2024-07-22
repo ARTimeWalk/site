@@ -7,26 +7,18 @@ In addition, we publish a Privacy Policy that describes how we process, collect,
 <br>
 
 ## Cautions for Use
-Safety should be the priority during AR activation. In particular, it is hazardous to walk on a smartphone near a roadway. Please be aware of your surroundings.
+Safety should be the priority during AR activation. In particular, it is hazardous to walk on a smartphone near a roadway. Please be aware of your surroundings.    
 
-<br>
-
-Please do not enter private property. Please act according to the situation.
-
-<br>
+Please do not enter private property. Please act according to the situation.    
 
 We are not responsible for any problems (accidents, etc.) that may occur with the above. Please use this app appropriately at your own risk.
 
 <br>
 
 ## Data Accuracy
-This app uses GNSS (GPS, etc...) to display the user's location. However, due to data accuracy and other reasons, the data presented is not always complete.
+This app uses GNSS (GPS, etc...) to display the user's location. However, due to data accuracy and other reasons, the data presented is not always complete.    
 
-<br>
-
-This app displays the location of signs or billboards on a map based on registered data. However, due to data accuracy and other reasons, the data displayed is not necessarily complete.
-
-<br>
+This app displays the location of signs or billboards on a map based on registered data. However, due to data accuracy and other reasons, the data displayed is not necessarily complete.    
 
 This app displays photos and avatars in AR based on registered data. However, due to data accuracy and other reasons, the data displayed is not necessarily complete.
 
