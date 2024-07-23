@@ -1,5 +1,4 @@
 # Terms of Service
----
 Welcome to ARTimeWalk! These terms of service govern your use of this app.    
 
 In addition, we publish a Privacy Policy that describes how we process, collect, use, and protect your information.
