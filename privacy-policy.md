@@ -1,5 +1,4 @@
 # Privacy Policy
----
 These privacy policies explain what data we collect from users and how we use the data we collect.
 
 <br>
