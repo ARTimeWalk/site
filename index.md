@@ -25,17 +25,18 @@ The smartphone's camera recognizes reference image markers (signs or billboards 
 <br>
 
 # Apple Store
-<div style="display: flex; align-items: center; gap: 20px;">
-  <a href="https://apps.apple.com/jp/app/artimewalk/id6473194027?itscg=30200&amp;itsct=apps_box_appicon" style="width: 120px; height: 120px; border-radius: 22%; overflow: hidden; display: inline-block;">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/a0/00/bca0000f-112d-9a79-223d-dd7923ff8aca/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/540x540bb.jpg" alt="ARTimeWalk" style="width: 120px; height: 120px; border-radius: 22%; overflow: hidden;">
-  </a>
+<div style="text-align: center;">
+  <div style="display: inline-flex; align-items: center; gap: 20px;">
+    <a href="https://apps.apple.com/jp/app/artimewalk/id6473194027?itscg=30200&amp;itsct=apps_box_appicon" style="width: 120px; height: 120px; border-radius: 22%; overflow: hidden; display: inline-block;">
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/a0/00/bca0000f-112d-9a79-223d-dd7923ff8aca/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/540x540bb.jpg" alt="ARTimeWalk" style="width: 120px; height: 120px; border-radius: 22%; overflow: hidden;">
+    </a>
+    <a href="https://apps.apple.com/jp/app/artimewalk/id6473194027?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 200px; height: 66px;">
+      <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1721606400" alt="Download on the App Store" style="border-radius: 13px; width: 200px; height: 66px;">
+    </a>
+  </div>
 
-  <a href="https://apps.apple.com/jp/app/artimewalk/id6473194027?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 200px; height: 66px;">
-    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1721606400" alt="Download on the App Store" style="border-radius: 13px; width: 200px; height: 66px;">
-  </a>
+  <img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/54bf8aafc9ebf4ffd3f3c62c85ee214f/b4ce6eacf611621c23c43683eeb175d3.png" alt="QR Code" style="display: block; margin: 20px auto; width: 100px;">
 </div>
-
-<img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/54bf8aafc9ebf4ffd3f3c62c85ee214f/b4ce6eacf611621c23c43683eeb175d3.png" alt="QR Code" style="display: block; margin: 20px 0; width: 100px;">
 
 <br>
 
