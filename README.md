@@ -10,8 +10,8 @@ GitHubのレポジトリから直接サイトを公開できるので、
 また、いい感じのデザインがあらかじめ用意されていて、  
 さらに、Markdown記法で簡単に作成できるところがポイントです。  
 
-[こちらのサイトでは、  
-GitHub Pagesがサポートしている基本的なデザイン(テーマ)を確認できます。](https://pages.github.com/themes/)  
+[こちらのサイト](https://pages.github.com/themes/)では、  
+GitHub Pagesがサポートしている基本的なデザイン(テーマ)を確認できます。  
 ARTimeWalkのサイトでは[minimal](https://github.com/pages-themes/minimal)を使用しています。  
 
 サイトの内容は.mdファイルに記述し、  
