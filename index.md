@@ -24,7 +24,7 @@ The smartphone's camera recognizes reference image markers (signs or billboards 
  
 <br>
 
-# Apple Store
+# App (iOS)
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="display: flex; align-items: center; gap: 20px;">
       <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/a0/00/bca0000f-112d-9a79-223d-dd7923ff8aca/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/540x540bb.jpg" alt="ARTimeWalk" style="width: 120px; height: 120px; border-radius: 22%; overflow: hidden;">
