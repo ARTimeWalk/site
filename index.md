@@ -12,7 +12,7 @@ We propose a new style smartphone application that presents past photographs in 
 
 <br>
 
-# Video
+# Demo Movie
 <div class="wrap">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/akJzsw4c75U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
