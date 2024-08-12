@@ -1,4 +1,9 @@
 # Privacy Policy
+
+<p style= 'text-align: right;'>
+  Posted: July 7, 2024
+</p>
+
 These privacy policies explain what data we collect from users and how we use the data we collect.
 
 <br>
