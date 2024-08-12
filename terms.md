@@ -1,4 +1,9 @@
 # Terms of Service
+
+<p style= 'text-align: right;'>
+  Posted: July 7, 2024
+</p>
+
 Welcome to ARTimeWalk! These terms of service govern your use of this app.    
 
 In addition, we publish a Privacy Policy that describes how we process, collect, use, and protect your information.
