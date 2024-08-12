@@ -16,13 +16,13 @@ If you have any requests to delete data registered by other users. Please contac
 <br>
 
 <p>
-  <a href="https://artimewalk.github.io/site" target="_blank">Home</a>
+  <a href="https://artimewalk.github.io/site">Home</a>
 </p>
 
 <br>
 
 <p style= 'text-align: right;'>
-  Created by: <a href="https://top.ie.akita-u.ac.jp/lab/" target="_blank">Arikawa Laboratory</a>
+  Created by: <a href="https://top.ie.akita-u.ac.jp/lab/" target="_blank>Arikawa Laboratory</a>
 </p>
 
 <p style= 'text-align: right;'>
