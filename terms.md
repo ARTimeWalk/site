@@ -33,6 +33,12 @@ From time to time, we may revise these terms to, for example, reflect changes to
 
 <br>
 
+<p>
+  <a href="https://artimewalk.github.io/site" target="_blank">Home</a>
+</p>
+
+<br>
+
 <p style= 'text-align: right;'>
   Created by: <a href="https://top.ie.akita-u.ac.jp/lab/" target="_blank">Arikawa Laboratory</a>
 </p>
