@@ -39,11 +39,11 @@ The smartphone's camera recognizes reference image markers (signs or billboards 
 <br>
 
 <p>
-  <a href="https://artimewalk.github.io/site/terms" target="_blank">Terms of Service</a>
+  <a href="https://artimewalk.github.io/site/terms">Terms of Service</a>
 </p>
 
 <p>
-  <a href="https://artimewalk.github.io/site/privacy-policy" target="_blank">Privacy Policy</a>
+  <a href="https://artimewalk.github.io/site/privacy-policy">Privacy Policy</a>
 </p>
 
 <br>
