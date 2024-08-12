@@ -34,7 +34,7 @@ From time to time, we may revise these terms to, for example, reflect changes to
 <br>
 
 <p>
-  <a href="https://artimewalk.github.io/site" target="_blank">Home</a>
+  <a href="https://artimewalk.github.io/site">Home</a>
 </p>
 
 <br>
