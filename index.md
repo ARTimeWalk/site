@@ -1,5 +1,11 @@
 # What is ARTimeWalk
-We propose a new style smartphone application that presents past photographs in AR (Augmented Reality) at the location in the real world where they were taken. The application consists of a process that provides precise location information of the photograph and a process that changes the present of the photograph depending on the user's movements. The new framework for easily registering photographs to the AR space using a smartphone realize a new innovative form of real world visual representation of photographs by adding physical actions. Additionally, the networked service will be introduced to the framework so that users could share rich experiences, for example, recording personal or historical stories and providing interesting content for tourist spots.
+ARTimeWalk is an app that allows you to view past photographs at the exact locations where they were originally taken. By doing so, the photographs we commonly see on social media transform from static images into vivid memories, offering a tangible experience that transcends seasons and time.
+
+For instance, when you look at an ordinary photograph from everyday life, you might feel a desire to relive that moment at the same location. ARTimeWalk enables you to overlay past scenes and atmospheres onto the present reality by incorporating these photographs. This creates an immersive experience, making it feel as though the captured moment is unfolding right before your eyes.
+
+The concept behind ARTimeWalk goes beyond mere photograph recreation. It aims to enhance the experience through digital technology while respecting the constraints of physical space and time. A photograph is not just a snapshot of a moment but encompasses the entire experience of visiting a place, feeling its events, and pressing the shutter button.
+
+We hope that ARTimeWalk will offer a new perspective on how we perceive and interact with photographs.
 
 <br>
 
@@ -12,16 +18,16 @@ We propose a new style smartphone application that presents past photographs in 
 
 <br>
 
-# Demo Movie
+# Movie
 <div class="wrap">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/akJzsw4c75U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0M_TU2QXXmk?si=qRCGXrpkaowZBmiP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <br>
 
 # VIO (Visual-Inertial Odometry)
-The smartphone's camera recognizes reference image markers (signs or billboards in the sity) that serve as 3D positional reference and measures the relative position and orientation of the marker and camera with an accuracy of several tens of centimeters. Even if the smartphone is moved after marker recognition, the position and orientation of the smartphone are maintained in high quality by sensor fusion (VIO) that integrates planar tracking by the camera and spatial positioning by a motion sensor that measures acceleration. ARTimeWalk is an application that uses this state-of-the-art technology.
- 
+The smartphone’s camera identifies markers such as signs or billboards in the city, which serve as 3D positional references. It measures the relative position and orientation of the marker and the camera with an accuracy of several tens of centimeters. Even if the smartphone is moved after recognizing the marker, its position and orientation remain highly accurate due to sensor fusion (VIO), which combines planar tracking by the camera with spatial positioning by a motion sensor that measures acceleration. ARTimeWalk is an application that leverages this cutting-edge technology.
+
 <br>
 
 # App (iOS)
