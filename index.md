@@ -9,7 +9,7 @@ We hope that ARTimeWalk will offer a new perspective on how we perceive and inte
 
 <br>
 
-ARTimeWalkは、過去の風景などを写した写真を現実世界の撮影場所で鑑賞するアプリです。
+ARTimeWalkは、過去の風景などを写した写真を現実世界の撮影場所で鑑賞するアプリケーションです。
 私たちが日々SNSなどで見ている写真が、ただの静止画から生きた記憶となり、季節や時間を超えてリアルに体感できます。
 
 例えば、何気ない日常の写真を見たとき、その瞬間を再びその場所で体験してみたくなることがあります。
@@ -42,6 +42,10 @@ ARTimeWalkによって、写真に対する新たな視点が生まれること�
 
 # VIO (Visual-Inertial Odometry)
 The smartphone’s camera identifies markers such as signs or billboards in the city, which serve as 3D positional references. It measures the relative position and orientation of the marker and the camera with an accuracy of several tens of centimeters. Even if the smartphone is moved after recognizing the marker, its position and orientation remain highly accurate due to sensor fusion (VIO), which combines planar tracking by the camera with spatial positioning by a motion sensor that measures acceleration. ARTimeWalk is an application that leverages this cutting-edge technology.
+
+<br>
+
+スマートフォンのカメラは、都市の中で標識や看板などのマーカーを識別し、これらを三次元位置基準として利用します。マーカーとカメラの相対的な位置と向きを数十センチメートルの精度で測定します。マーカーを認識した後にスマートフォンが移動しても、位置と向きは高い精度で維持されます。これは、カメラによる空間トラッキングと、加速度を計測するモーションセンサーによる空間測位を統合したセンサーフュージョン（VIO）によるものです。ARTimeWalkは、この最先端の技術を用いたアプリケーションです。
 
 <br>
 
