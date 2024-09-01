@@ -1,13 +1,13 @@
-<img width="228" alt="image" src="https://github.com/user-attachments/assets/164d5ea1-c93c-44b5-96f9-e71e46eca025"># What is ARTimeWalk
+# What is ARTimeWalk
 We propose a new style smartphone application that presents past photographs in AR (Augmented Reality) at the location in the real world where they were taken. The application consists of a process that provides precise location information of the photograph and a process that changes the present of the photograph depending on the user's movements. The new framework for easily registering photographs to the AR space using a smartphone realize a new innovative form of real world visual representation of photographs by adding physical actions. Additionally, the networked service will be introduced to the framework so that users could share rich experiences, for example, recording personal or historical stories and providing interesting content for tourist spots.
 
 <br>
 
 # App Screens
 <p style= 'text-align: center;'>
-  <img src="images/app_image_photo.jpg" width= "30%" >
   <img src="images/app_image_detect.jpg" width= "30%" >
   <img src="images/app_image_avatar.jpg" width= "30%" >
+  <img src="images/app_image_photo.jpg" width= "30%" >
 </p>
 
 <br>
