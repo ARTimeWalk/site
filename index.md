@@ -24,7 +24,7 @@ ARTimeWalkによって、写真に対する新たな視点が生まれること�
 
 <br>
 
-# App Screens
+# Gallery
 <p style= 'text-align: center;'>
   <img src="images/app_image_detect.jpg" width= "30%" >
   <img src="images/app_image_avatar.jpg" width= "30%" >
