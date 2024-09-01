@@ -38,7 +38,7 @@ From time to time, we may revise these terms to, for example, reflect changes to
 
 <br>
 
-[Home](href="https://artimewalk.github.io/site)
+[Home](https://artimewalk.github.io/site)
 
 <br>
 
