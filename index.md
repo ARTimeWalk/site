@@ -52,13 +52,13 @@ The smartphone’s camera identifies markers such as signs or billboards in the 
 # App (iOS)
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="display: flex; align-items: center; gap: 20px;">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/a0/00/bca0000f-112d-9a79-223d-dd7923ff8aca/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/540x540bb.jpg" alt="ARTimeWalk" style="max-width: 120px; height: auto; border-radius: 22%; overflow: hidden;">
-    <a href="https://apps.apple.com/jp/app/artimewalk/id6473194027?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; max-width: 150px; height: auto;">
-      <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1721606400" alt="Download on the App Store" style="border-radius: 13px; max-width: 150px; height: auto;">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/a0/00/bca0000f-112d-9a79-223d-dd7923ff8aca/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/540x540bb.jpg" alt="ARTimeWalk" style="width: 120px; height: 120px; border-radius: 22%; overflow: hidden;">
+    <a href="https://apps.apple.com/jp/app/artimewalk/id6473194027?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 150px; height: 50px;">
+      <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1721606400" alt="Download on the App Store" style="border-radius: 13px; width: 150px; height: 50px;">
     </a>
   </div>
   
-  <img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/54bf8aafc9ebf4ffd3f3c62c85ee214f/b4ce6eacf611621c23c43683eeb175d3.png" alt="QR Code" style="max-width: 100px; height: auto;">
+  <img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/54bf8aafc9ebf4ffd3f3c62c85ee214f/b4ce6eacf611621c23c43683eeb175d3.png" alt="QR Code" style="width: 100px; height: 100px;">
 </div>
 
 <br>
