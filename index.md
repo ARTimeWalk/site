@@ -1,7 +1,7 @@
 # What is ARTimeWalk
 ARTimeWalk is an app that allows you to view past photographs at the exact locations where they were originally taken. By doing so, the photographs we commonly see on social media transform from static images into vivid memories, offering a tangible experience that transcends seasons and time.
 
-For instance, when you look at an ordinary photograph from everyday life, you might feel a desire to relive that moment at the same location. ARTimeWalk enables you to overlay past scenes and atmospheres onto the present reality by incorporating these photographs. This creates an immersive experience, making it feel as though the captured moment is unfolding right before your eyes.
+For example, when you look at an ordinary photograph from everyday life, you might desire to relive that moment at the same location. ARTimeWalk utilizes advanced location-based technology to overlay past scenes and atmospheres onto the present reality. This creates an immersive experience, making it feel as though the moment captured in the photograph is unfolding right before your eyes.
 
 The concept behind ARTimeWalk goes beyond mere photograph recreation. It aims to enhance the experience through digital technology while respecting the constraints of physical space and time. A photograph is not just a snapshot of a moment but encompasses the entire experience of visiting a place, feeling its events, and pressing the shutter button.
 
