@@ -1,6 +1,6 @@
 # What is ARTimeWalk
 <p style= 'text-align: center;'>
-  <img src="ARTimeWalk_UsageScenes.jpg">
+  <img src="images/ARTimeWalk_UsageScenes.jpg">
 </p>
 
 <br>
