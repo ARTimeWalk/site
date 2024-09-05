@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: ARTimeWalk
-description: Tracing People’s Experiences.
+description: Unveil the Story Behind Photograph.
 github:
   is_project_page: false
 show_downloads: false
