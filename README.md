@@ -1,4 +1,4 @@
-[本サイト](https://artimewalk.github.io/site/)
+[Web Site](https://artimewalk.github.io/site/)
 
 ---
 
