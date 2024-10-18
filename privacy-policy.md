@@ -9,7 +9,15 @@ These privacy policies explain what data we collect from users and how we use th
 <br>
 
 ### What Data Does Collect
-This app is a beta version, so public functions such as photos are limited. Therefore, the only data this app collects is access logs to manage the number of active users. The access log contains a UUID (a string of characters randomly generated only once when the app is installed) and time data. Note that this UUID cannot identify an individual by itself.
+This application, now in its beta version, collects the following types of data:
+
+・User-uploaded image data
+
+・GNSS-derived latitude and longitude
+
+・Spatial tracking location data (which uses visual markers for accurate positioning based on camera input and motion sensor data)
+
+・Access logs, which include a UUID (a randomly generated string assigned upon installation) and time data. Please note that the UUID cannot be used to identify an individual by itself.
 
 <br>
 
