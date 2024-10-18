@@ -11,13 +11,13 @@ These privacy policies explain what data we collect from users and how we use th
 ### What Data Does Collect
 This app, now in its beta version, collects the following types of data:
 
-・User-uploaded image data
+- **User-uploaded image data**: This includes landscape photos or images of signs or billboards. When sharing these images, please be mindful of the rights and privacy of individuals, objects, and buildings depicted in the photos.
 
-・GNSS-derived latitude and longitude
+- **GNSS-derived latitude and longitude**: This data is used to indicate the location of signs or billboards. The latitude and longitude are obtained from GNSS at the time the subject is captured.
 
-・Spatial tracking location data (which uses visual markers for accurate positioning based on camera input and motion sensor data)
+- **Spatial tracking location data**: This uses visual markers for accurate positioning based on camera input and motion sensor data. This data is utilized in calculations when presenting photos in AR.
 
-・Access logs, which include a UUID (a randomly generated string assigned upon installation) and time data. Please note that the UUID cannot be used to identify an individual by itself.
+- **Access logs**: These include a UUID (a randomly generated string assigned upon installation) along with time data. Please note that the UUID cannot be used to identify an individual by itself.
 
 <br>
 
