@@ -9,7 +9,7 @@ These privacy policies explain what data we collect from users and how we use th
 <br>
 
 ### What Data Does Collect
-This application, now in its beta version, collects the following types of data:
+This app, now in its beta version, collects the following types of data:
 
 ・User-uploaded image data
 
