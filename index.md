@@ -62,7 +62,7 @@ The smartphone’s camera identifies markers such as signs or billboards in the 
     </a>
   </div>
   
-  <img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/54bf8aafc9ebf4ffd3f3c62c85ee214f/b4ce6eacf611621c23c43683eeb175d3.png" alt="QR Code" style="width: 100px; height: 100px;">
+  <img src="images/qr-code.png" alt="QR Code" style="width: 100px; height: 100px;">
 </div>
 
 <br>
